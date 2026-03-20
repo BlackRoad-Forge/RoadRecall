@@ -8,7 +8,7 @@
 
 # FSRS4Anki
 
-_✨ A modern spaced-repetition scheduler for Anki based on the [Free Spaced Repetition Scheduler algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm) ✨_  
+_✨ A modern spaced-repetition scheduler for Anki based on the [Free Spaced Repetition Scheduler algorithm](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm) ✨_  
 
 </div>
 
@@ -37,9 +37,9 @@ _✨ A modern spaced-repetition scheduler for Anki based on the [Free Spaced Rep
 FSRS4Anki (Free Spaced Repetition Scheduler for Anki) consists of two main parts: the scheduler and the optimizer.
 
 - The scheduler replaces Anki's built-in scheduler and schedules the cards according to the FSRS algorithm.
-- The optimizer uses machine learning to learn your memory patterns and finds parameters that best fit your review history. For details about the working of the optimizer, please read [the mechanism of optimization](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-mechanism-of-optimization).
+- The optimizer uses machine learning to learn your memory patterns and finds parameters that best fit your review history. For details about the working of the optimizer, please read [the mechanism of optimization](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-mechanism-of-optimization).
 
-For details about the FSRS algorithm, please read [the algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-Algorithm). If you are interested, you can also read my papers:
+For details about the FSRS algorithm, please read [the algorithm](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/The-Algorithm). If you are interested, you can also read my papers:
 - [A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling](https://dl.acm.org/doi/10.1145/3534678.3539081?cid=99660547150) (free access) [[中文版](https://memodocs.maimemo.com/docs/2022_KDD)], and
 - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://drive.google.com/file/u/0/d/1riJbkH39JB71Wj0AzESTngUM0LaeoD2l/view) (Google Scholar) [[中文版](https://memodocs.maimemo.com/docs/2023_TKDE)].
 
@@ -121,11 +121,11 @@ This carefully curated list will help you better understand FSRS and choose the 
 
 # Research Resources
 
-For those new to spaced repetition algorithms, we recommend starting with our comprehensive guide: [Spaced Repetition Algorithm: A Three-Day Journey from Novice to Expert](https://github.com/open-spaced-repetition/fsrs4anki/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert)
+For those new to spaced repetition algorithms, we recommend starting with our comprehensive guide: [Spaced Repetition Algorithm: A Three-Day Journey from Novice to Expert](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert)
 
-Dive deeper into the academic foundations of FSRS and spaced repetition through our curated collection of [Datasets, Code & Research Papers](https://github.com/open-spaced-repetition/fsrs4anki/wiki/Research-resources)
+Dive deeper into the academic foundations of FSRS and spaced repetition through our curated collection of [Datasets, Code & Research Papers](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/Research-resources)
 
-Explore our extensive collection of [Research Notebooks](https://github.com/open-spaced-repetition/fsrs4anki/wiki/Notebooks) documenting detailed analyses and experiments with FSRS and spaced repetition algorithms
+Explore our extensive collection of [Research Notebooks](https://github.com/open-spaced-repetition/awesome-fsrs/wiki/Notebooks) documenting detailed analyses and experiments with FSRS and spaced repetition algorithms
 
 # Stargazers Over Time
 
